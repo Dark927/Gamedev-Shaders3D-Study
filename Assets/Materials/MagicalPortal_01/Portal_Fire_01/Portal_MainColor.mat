@@ -40,11 +40,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _CircleClip: 0.514
+    - _CircleFeather: 1
+    - _CircleRadius: 0.66
     - _CircleWidth: 0.254
     - _Feather: 0.287
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SwirlPower: 1
+    - _SwirlSpeed: 0.5
     - _TIling: 3
     m_Colors:
     - _BaseColor: {r: 4, g: 0.53333336, b: 0, a: 0}

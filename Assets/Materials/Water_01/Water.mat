@@ -43,10 +43,10 @@ Material:
     - _NormalStrength: 15
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionScale: 10
+    - _RefractionScale: 4.84
     - _RefractionStrength: -10
     - _Smoothness: 1
-    - _WaterSpeed: 0.1
+    - _WaterSpeed: 0.31
     - _WaveAmplitude: 0.1
     - _WaveSpeed: 1
     m_Colors:

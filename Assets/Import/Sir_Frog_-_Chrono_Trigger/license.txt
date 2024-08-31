@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sir Frog - Chrono Trigger
+* source:	https://sketchfab.com/3d-models/sir-frog-chrono-trigger-0af0c15e947143be8fab274841764bf1
+* author:	Adrian Carter (https://sketchfab.com/Adrian.Carter3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sir Frog - Chrono Trigger" (https://sketchfab.com/3d-models/sir-frog-chrono-trigger-0af0c15e947143be8fab274841764bf1) by Adrian Carter (https://sketchfab.com/Adrian.Carter3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

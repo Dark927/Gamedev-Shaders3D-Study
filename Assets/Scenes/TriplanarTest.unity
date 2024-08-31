@@ -334,32 +334,32 @@ PrefabInstance:
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.4507688
       objectReference: {fileID: 0}
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.49521473
       objectReference: {fileID: 0}
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0.4999271
       objectReference: {fileID: 0}
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.54922014
       objectReference: {fileID: 0}
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: 95.38
       objectReference: {fileID: 0}
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -95.92
       objectReference: {fileID: 0}
     - target: {fileID: 2838207453471858283, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
         type: 3}
@@ -371,6 +371,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ValleyGrayCliff
       objectReference: {fileID: 0}
+    - target: {fileID: 3974561329570751748, guid: 0ce70a164a57a564ea7f0cb7e1ebc971,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 161eb20f36b18d84a9ac08d3cd4c1dc5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ce70a164a57a564ea7f0cb7e1ebc971, type: 3}
 --- !u!1 &1430157294
